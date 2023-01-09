@@ -1,0 +1,345 @@
+.header {
+    margin-top:30px;
+    margin-left:auto;
+    margin-right:auto;
+    height:100px;
+    width:90%;
+    border:3px double whitesmoke;
+}
+
+.content {
+    background-color:black;
+    opacity: 0.7;
+    margin-top:80px;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    height:900px;
+    width:1400px;
+}
+
+.selection:hover {
+    margin-top:85px;
+    font-style:bold;
+    font-size:45px;
+}
+
+img.peak {
+    height:100px;
+}
+img.header1 {
+    width:30%;
+    height:100px;
+}
+
+.selection {
+    font-size:30px;
+    margin-top:100px;
+}
+
+#important {
+    font-size:45px;
+}
+
+.selection, #important, .footer, .footer_header {
+    font-family:fantasy;
+    text-align:center;
+    display:block;
+    color:white;
+    text-decoration:none;
+}
+
+#important:hover {
+    margin-top:90px;
+    font-size:55px
+}
+
+#big {
+    font-size:45px;
+}
+
+#large:hover {
+    filter:brightness(50%);
+}
+
+p, h1, h2, h3  {
+    margin-left:15px;
+    text-align:left;
+}
+p {
+    font-size:17px;
+}
+
+.social_links {
+    margin-top:-400px;
+    height:200px;
+    width:400px;
+}
+
+.social_links, .fanart {
+    margin-right:100px;
+    height:200px;
+    width:400px;
+    float:right;
+}
+
+.social_links_header, .objectives_header {
+    margin-top:-5px;
+    width:405px;
+    border-radius:12px 15px 0px 0px;
+    margin-left:-1px;
+}
+
+.social_links_header, .objectives_header, .info_header, .fanart_header, .footer_header {
+    background-color:rgb(59, 59, 143);
+    text-decoration:none;
+}
+
+.social_links, .info, .fanart, .objectives {
+    border-radius:15px;
+}
+
+hr {
+    width:400px;
+    display:inline-block;
+}
+
+hr {
+    margin-top:30px;
+}
+
+p, h1, hr, h2, h3{
+    line-height: 2;
+    margin-left:100px;
+    font-family:arial;
+}
+
+img.social:hover {
+    filter:brightness(50%);
+}
+
+img.social {
+    width:80px;
+    float:left;
+    margin-left:30px;
+}
+
+.info {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    height:240px;
+}
+
+.info, .social_links, .fanart, .objectives {
+    font-family:impact;
+    font-size:20px;
+    text-decoration:none;
+    font-style:bold;
+    text-align:center;
+    border:3px groove rgb(59, 59, 143);
+}
+
+.info_header {
+    text-align:center;
+    width:605px;
+    border-radius:12px 12px 0px 0px;
+    margin-top:-3px;
+    margin-left:-3px;
+}
+
+img.contents {
+    width:120px;
+    margin-top:40px;
+    margin-left:15px;
+    color:black;
+}
+
+img.contents:hover {
+    filter:brightness(50%);
+}
+
+#art {
+    width:95%;
+    height:90%;
+    border-radius:0px 0px 15px 15px;
+    margin-top:0px;
+}
+
+.fanart_header {
+    width:405px;
+    border-radius:15px 15px 0px 0px;
+    margin-left:-3px;
+    margin-top:-2px;
+}
+
+.fanart {
+    font-family:impact;
+    font-size:20px;
+    font-style:bold;
+    text-align:center;
+    margin-top:-400px;
+}
+
+
+.footer {
+    margin-top:30px;
+    width:600px;
+    height:200px;
+    border-radius:15px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:20px;
+    font-style:bold;
+    text-align:center;
+    border:3px groove rgb(59, 59, 143);
+}
+
+.footer_header {
+    width:605px;
+    margin-left:-3px;
+    margin-top:-1px;
+    border-radius:15px 15px 0px 0px;
+}
+
+a.remove {
+    text-decoration:none;
+    display:block;
+    text-align:left;
+    margin-left:20px;
+    line-height:60px;
+    color:white;
+}
+
+a.remove:hover {
+    margin-left:60px;
+}
+
+.category {
+    text-decoration:none;
+    font-family:fantasy;
+    text-align:left;
+    margin-top:-80px;
+    margin-left:200px;
+    font-size:30px;
+    word-spacing:120px;
+}
+
+a.category-hover {
+    text-decoration:none;
+    color:white;
+}
+
+.category-hover:hover {
+    filter: drop-shadow(8px 8px 10px grey);
+}
+
+.objectives {
+    margin-top:-650px;
+    height:450px;
+    width:400px;
+    float:right;
+    margin-right:100px;
+}
+
+img.objective_icon {
+    width:50px;
+    margin-top:0px;
+    margin-left:0px;
+}
+
+.objective {
+    font-family:arial;
+    margin-top:-5px;
+    margin-left:-30px;
+    display:inline-block;
+    text-decoration:none;
+}
+
+li {
+    margin-left:100px;
+}
+
+table.Weapons {
+    border:3px solid white;
+    font-family:arial;
+    display:inline-block;
+    margin-top:75px;
+    margin-left:50px;
+}
+
+#first {
+    margin-left:100px;
+}
+
+table.Icons {
+    width:400px;
+    margin-top:15px;
+    border:none;
+}
+
+img.Infected_icons {
+    margin-left:-30px;
+    width:100px;
+}
+
+table.Infected {
+    width:200px;
+    border:none;
+    margin-left:120px;
+    display:inline-block;
+}
+
+#first {
+    margin-left:100px;
+}
+
+body {
+    background-image:url(Images/Roblox_Those_Who_Remain_Fanart.png);
+    color:white;
+}
+
+table.perk {
+    width:400px;
+    margin-top:-650px;
+    margin-left:850px;
+    position:relative;
+}
+
+table {
+    text-align:center;
+}
+
+img.perk_icons {
+    width:35px;
+}
+
+table.Maps {
+    margin-left:100px;
+    display:inline-block;
+}
+
+#not_first_map {
+    margin-left:5px;
+}
+
+img.map_select {
+    margin-left:100px;
+    width:120px;
+}
+
+img.map_select:hover {
+    filter:brightness(0.5);
+}
+
+img.map_ICON {
+    width:150px;
+}
+
+img.map_ICON:hover {
+    filter:opacity(0.5);
+}
+
+table.maps {
+    text-align: center;
+}
